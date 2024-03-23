@@ -9,3 +9,4 @@ This page has now been updated with symantic tags to help computer systems that 
 ##Links
 https://github.com/magtron3030/semantic-html
 
+https://magtron3030.github.io/semantic-html/ 
